@@ -5,7 +5,7 @@
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a [i don't work] specializing in [cyber sec and eithcal hacker]. I enjoy [hacking eithcal ofc and i love cats].</p>
+    <p>im learnig eithcal hacking and red teaming specializing in cyber sec and eithcal hacker. I enjoy hacking eithcal ofc and i love cats</p>
 </div>
 <!---
 Zerodayspecter/Zerodayspecter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
