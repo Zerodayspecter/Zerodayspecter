@@ -10,7 +10,7 @@
 <div align="center">
     <!-- Replace href with your links -->
     <a href="https://www.tiktok.com/@zerodayspecter?is_from_webapp=1&sender_device=pc">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok"/>
+        <img src="https://img.shields.io/badge/tiktok-0077B5?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok"/>
     </a>
 </div>
 <!---
