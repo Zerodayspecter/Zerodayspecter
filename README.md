@@ -5,7 +5,13 @@
 </div>
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>im learnig eithcal hacking and red teaming specializing in cyber sec and eithcal hacker. I enjoy hacking eithcal ofc and i love cats</p>
+    <p>im learning eithcal hacking and red teaming specializing in cyber sec and eithcal hacker. I enjoy hacking eithcal ofc and i love cats</p>
+</div>
+<div align="center">
+    <!-- Replace href with your links -->
+    <a href="https://www.tiktok.com/@zerodayspecter?is_from_webapp=1&sender_device=pc">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok"/>
+    </a>
 </div>
 <!---
 Zerodayspecter/Zerodayspecter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
